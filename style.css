@@ -1,11 +1,16 @@
-body {
-  color: aquamarine;
-}
-
-p {
-  color:purple
-}
-
-html {
+body{
+  /* color: aquamarine; */
   background-color: black;
+}
+
+p{
+  /* color:purple */
+}
+
+.text{
+  color:aquamarine;
+}
+
+.list{
+  color: aliceblue;
 }
