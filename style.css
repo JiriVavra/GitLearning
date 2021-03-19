@@ -1,6 +1,6 @@
 body{
   /* color: aquamarine; */
-  background-color: silver;
+  background-color: black;
 }
 
 /* p{
@@ -8,9 +8,9 @@ body{
 } */
 
 .text{
-  color:brown;
+  color:aquamarine;
 }
 
 .list{
-  color: rgb(0, 0, 0);
+  color: aliceblue;
 }
